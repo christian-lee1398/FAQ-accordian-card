@@ -13,6 +13,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 
 ## Overview
@@ -60,3 +61,6 @@ The logic used in this project (while the code may be messy) I will continue to 
 - GitHub - [@christian-lee1398](https://github.com/christian-lee1398)
 
 
+## Acknowledgements
+
+-HUGE thank you to Enmanuel (@Enmanuel-Otero-Montano on Frontend Mentor) for helping me with JS looping issues
