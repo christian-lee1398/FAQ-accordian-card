@@ -92,9 +92,12 @@ body{
     font-size: 15px;
     font-weight: 400;
     padding: 0 18px;
-    display: none;
+    display: block;
     background-color: white;
     overflow: hidden;
+}
+.hidden{
+    display: none;
 }
 
 @media screen and (max-width: 1500px) {
